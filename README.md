@@ -10,6 +10,6 @@ Este proyecto consiste en un chatbot personalizado utilizando la API de DeepSeek
 5. Subida del proyecto a GitHub.
 
 ## Enlace al repositorio:
-https://github.com/tuusuario/TAREA_2
+https://github.com/Kersson12/TAREA2.git
 ## Enlace del doc, del proceso:
 https://docs.google.com/document/d/1pyyjcb6BDoklyi3x-PQlcbm5tBXGbuwBTU5j96yIGK0/edit?usp=sharing
